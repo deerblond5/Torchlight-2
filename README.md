@@ -232,4 +232,4 @@ Torchlight 2 is offered as a full free version, including all features and updat
 Download Torchlight 2 now and embark on an unforgettable adventure filled with action and exploration!
 
 ---
-**Last updated:** 2026-10-03 21:52:38 UTC
+**Last updated:** 2026-10-04 00:10:54 UTC
